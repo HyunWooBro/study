@@ -1,0 +1,29 @@
+
+
+
+
+//////////////////////////////////////////////////////////
+// ExpandTapWidget 디버깅
+//////////////////////////////////////////////////////////
+
+// debugPaintExpandAreaEnabled = true
+
+
+
+//////////////////////////////////////////////////////////
+// Flutter 프레임워크 디버깅
+//////////////////////////////////////////////////////////
+
+// debugPaintBaselinesEnabled = true;
+
+// debugPaintSizeEnabled = true;
+
+// debugRepaintRainbowEnabled = true;
+
+// debugRepaintTextRainbowEnabled = true;
+
+// debugPaintPointersEnabled = true;
+
+// debugPaintLayerBordersEnabled = true;
+
+// debugHighlightDeprecatedWidgets = true;
