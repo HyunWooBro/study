@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='Common'/>
+        <page name='Import'/>
+        <page name='Type'/>
+        <page name='Property'/>
+        <page name='Property Observer'/>
+        <page name='Enum'/>
+        <page name='Extension'/>
+        <page name='Delegate'/>
+        <page name='Notification'/>
+        <page name='Closure'/>
+        <page name='Asyncronous'/>
+        <page name='Generic'/>
+        <page name='Protocol'/>
+        <page name='Optional'/>
+        <page name='Access Level'/>
+        <page name='Init'/>
+        <page name='Inheritance'/>
+        <page name='Struct'/>
+        <page name='Sequence &amp; Collection'/>
+        <page name='Collection'/>
+        <page name='Lazy'/>
+        <page name='ARC'/>
+        <page name='Time &amp; Timer'/>
+        <page name='Objective-C'/>
+        <page name='KVC &amp; KVO'/>
+        <page name='JSON'/>
+        <page name='Optimization'/>
+        <page name='COW'/>
+        <page name='Pointer'/>
+        <page name='Swizzling'/>
+        <page name='Mirror'/>
+        <page name='Selector &amp; KeyPath'/>
+        <page name='Pattern'/>
+        <page name='Operator'/>
+        <page name='Random'/>
+        <page name='URLSession'/>
+        <page name='Bundle'/>
+        <page name='Request &amp; Auth'/>
+        <page name='Assertion'/>
+        <page name='Local Storage'/>
+    </pages>
+</playground>

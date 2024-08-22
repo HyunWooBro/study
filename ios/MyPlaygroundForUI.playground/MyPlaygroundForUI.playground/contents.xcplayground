@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw' buildActiveScheme='true'>
+    <pages>
+        <page name='UI'/>
+        <page name='UI(2)'/>
+        <page name='Life Cycle'/>
+        <page name='AutoLayout'/>
+        <page name='Event Handling'/>
+        <page name='Rendering Process'/>
+        <page name='Appearance'/>
+        <page name='Core Animation'/>
+        <page name='Sublayers'/>
+        <page name='UIView'/>
+        <page name='UIImage'/>
+        <page name='zPosition'/>
+        <page name='UIControl'/>
+        <page name='UIButton'/>
+        <page name='Text'/>
+        <page name='UIFont'/>
+        <page name='UIStackView'/>
+        <page name='UIScrollView'/>
+        <page name='UITableView'/>
+        <page name='UITableViewCell'/>
+        <page name='UICollectionView'/>
+        <page name='UICollectionViewCell'/>
+        <page name='UICollectionViewCompositionalLayout'/>
+        <page name='DiffableDataSource'/>
+        <page name='UIViewController'/>
+        <page name='TabBar'/>
+        <page name='Navigation'/>
+        <page name='Modal'/>
+        <page name='Animation'/>
+        <page name='Blur'/>
+        <page name='Badge'/>
+        <page name='Search'/>
+        <page name='Size'/>
+        <page name='SFSymbol'/>
+        <page name='UIWindow'/>
+        <page name='Accesibility'/>
+        <page name='UIBezierPath'/>
+        <page name='Transform'/>
+        <page name='UIGraphics'/>
+        <page name='UIColor'/>
+        <page name='Constraint'/>
+        <page name='WebView'/>
+    </pages>
+</playground>

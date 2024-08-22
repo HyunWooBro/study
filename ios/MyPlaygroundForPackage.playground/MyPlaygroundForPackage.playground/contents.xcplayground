@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw' buildActiveScheme='true'>
+    <pages>
+        <page name='Package'/>
+        <page name='PhotosUI (from Apple)'/>
+        <page name='CoreLocation (from Apple)'/>
+        <page name='MapKit (from Apple)'/>
+        <page name='SnapKit'/>
+        <page name='Hero'/>
+        <page name='FloatingPanel'/>
+        <page name='IQKeyboardManager'/>
+        <page name='RxSwift'/>
+        <page name='ReactorKit'/>
+        <page name='Kingfisher'/>
+        <page name='SkeletonView'/>
+        <page name='EasyTipView'/>
+        <page name='FlexLayout'/>
+        <page name='PinLayout'/>
+        <page name='EmptyDataSet-Swift'/>
+        <page name='Eureka'/>
+        <page name='Mantis'/>
+        <page name='Sheeeeeeeeet'/>
+    </pages>
+</playground>
